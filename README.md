@@ -1,0 +1,1 @@
+Go straight to [notebook](./fashion_mnist.ipynb). Don't pass GO.
